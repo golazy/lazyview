@@ -3,8 +3,9 @@ package tpl
 import (
 	"bytes"
 	"context"
-	"memfs"
 	"testing"
+
+	"golazy.dev/memfs"
 
 	"golazy.dev/lazyview"
 )
